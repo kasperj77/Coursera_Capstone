@@ -1,104 +1,53 @@
-,Postalcode,Borough,Neighborhood
-0,M1B,Scarborough,"Rouge, Malvern"
-1,M1C,Scarborough,"Highland Creek, Rouge Hill, Port Union"
-2,M1E,Scarborough,"Guildwood, Morningside, West Hill"
-3,M1G,Scarborough,Woburn
-4,M1H,Scarborough,Cedarbrae
-5,M1J,Scarborough,Scarborough Village
-6,M1K,Scarborough,"East Birchmount Park, Ionview, Kennedy Park"
-7,M1L,Scarborough,"Clairlea, Golden Mile, Oakridge"
-8,M1M,Scarborough,"Cliffcrest, Cliffside, Scarborough Village West"
-9,M1N,Scarborough,"Birch Cliff, Cliffside West"
-10,M1P,Scarborough,"Dorset Park, Scarborough Town Centre, Wexford Heights"
-11,M1R,Scarborough,"Maryvale, Wexford"
-12,M1S,Scarborough,Agincourt
-13,M1T,Scarborough,"Clarks Corners, Sullivan, Tam O'Shanter"
-14,M1V,Scarborough,"Agincourt North, L'Amoreaux East, Milliken, Steeles East"
-15,M1W,Scarborough,L'Amoreaux West
-16,M1X,Scarborough,Upper Rouge
-17,M2H,North York,Hillcrest Village
-18,M2J,North York,"Fairview, Henry Farm, Oriole"
-19,M2K,North York,Bayview Village
-20,M2L,North York,"Silver Hills, York Mills"
-21,M2M,North York,"Newtonbrook, Willowdale"
-22,M2N,North York,Willowdale South
-23,M2P,North York,York Mills West
-24,M2R,North York,Willowdale West
-25,M3A,North York,Parkwoods
-26,M3B,North York,Don Mills North
-27,M3C,North York,"Flemingdon Park, Don Mills South"
-28,M3H,North York,"Bathurst Manor, Downsview North, Wilson Heights"
-29,M3J,North York,"Northwood Park, York University"
-30,M3K,North York,"CFB Toronto, Downsview East"
-31,M3L,North York,Downsview West
-32,M3M,North York,Downsview Central
-33,M3N,North York,Downsview Northwest
-34,M4A,North York,Victoria Village
-35,M4B,East York,"Woodbine Gardens, Parkview Hill"
-36,M4C,East York,Woodbine Heights
-37,M4E,East Toronto,The Beaches
-38,M4G,East York,Leaside
-39,M4H,East York,Thorncliffe Park
-40,M4J,East York,East Toronto
-41,M4K,East Toronto,"The Danforth West, Riverdale"
-42,M4L,East Toronto,"The Beaches West, India Bazaar"
-43,M4M,East Toronto,Studio District
-44,M4N,Central Toronto,Lawrence Park
-45,M4P,Central Toronto,Davisville North
-46,M4R,Central Toronto,North Toronto West
-47,M4S,Central Toronto,Davisville
-48,M4T,Central Toronto,"Moore Park, Summerhill East"
-49,M4V,Central Toronto,"Deer Park, Forest Hill SE, Rathnelly, South Hill, Summerhill West"
-50,M4W,Downtown Toronto,Rosedale
-51,M4X,Downtown Toronto,"Cabbagetown, St. James Town"
-52,M4Y,Downtown Toronto,Church and Wellesley
-53,M5A,Downtown Toronto,"Harbourfront, Regent Park"
-54,M5B,Downtown Toronto,"Ryerson, Garden District"
-55,M5C,Downtown Toronto,St. James Town
-56,M5E,Downtown Toronto,Berczy Park
-57,M5G,Downtown Toronto,Central Bay Street
-58,M5H,Downtown Toronto,"Adelaide, King, Richmond"
-59,M5J,Downtown Toronto,"Harbourfront East, Toronto Islands, Union Station"
-60,M5K,Downtown Toronto,"Design Exchange, Toronto Dominion Centre"
-61,M5L,Downtown Toronto,"Commerce Court, Victoria Hotel"
-62,M5M,North York,"Bedford Park, Lawrence Manor East"
-63,M5N,Central Toronto,Roselawn
-64,M5P,Central Toronto,"Forest Hill North, Forest Hill West"
-65,M5R,Central Toronto,"The Annex, North Midtown, Yorkville"
-66,M5S,Downtown Toronto,"Harbord, University of Toronto"
-67,M5T,Downtown Toronto,"Chinatown, Grange Park, Kensington Market"
-68,M5V,Downtown Toronto,"CN Tower, Bathurst Quay, Island airport, Harbourfront West, King and Spadina, Railway Lands, South Niagara"
-69,M5W,Downtown Toronto,Stn A PO Boxes 25 The Esplanade
-70,M5X,Downtown Toronto,"First Canadian Place, Underground city"
-71,M6A,North York,"Lawrence Heights, Lawrence Manor"
-72,M6B,North York,Glencairn
-73,M6C,York,Humewood-Cedarvale
-74,M6E,York,Caledonia-Fairbanks
-75,M6G,Downtown Toronto,Christie
-76,M6H,West Toronto,"Dovercourt Village, Dufferin"
-77,M6J,West Toronto,"Little Portugal, Trinity"
-78,M6K,West Toronto,"Brockton, Exhibition Place, Parkdale Village"
-79,M6L,North York,"Downsview, North Park, Upwood Park"
-80,M6M,York,"Del Ray, Keelesdale, Mount Dennis, Silverthorn"
-81,M6N,York,"The Junction North, Runnymede"
-82,M6P,West Toronto,"High Park, The Junction South"
-83,M6R,West Toronto,"Parkdale, Roncesvalles"
-84,M6S,West Toronto,"Runnymede, Swansea"
-85,M7A,Queen's Park,Queen's Park
-86,M7R,Mississauga,Canada Post Gateway Processing Centre
-87,M7Y,East Toronto,Business Reply Mail Processing Centre 969 Eastern
-88,M8V,Etobicoke,"Humber Bay Shores, Mimico South, New Toronto"
-89,M8W,Etobicoke,"Alderwood, Long Branch"
-90,M8X,Etobicoke,"The Kingsway, Montgomery Road, Old Mill North"
-91,M8Y,Etobicoke,"Humber Bay, King's Mill Park, Kingsway Park South East, Mimico NE, Old Mill South, The Queensway East, Royal York South East, Sunnylea"
-92,M8Z,Etobicoke,"Kingsway Park South West, Mimico NW, The Queensway West, Royal York South West, South of Bloor"
-93,M9A,Etobicoke,Islington Avenue
-94,M9B,Etobicoke,"Cloverdale, Islington, Martin Grove, Princess Gardens, West Deane Park"
-95,M9C,Etobicoke,"Bloordale Gardens, Eringate, Markland Wood, Old Burnhamthorpe"
-96,M9L,North York,Humber Summit
-97,M9M,North York,"Emery, Humberlea"
-98,M9N,York,Weston
-99,M9P,Etobicoke,Westmount
-100,M9R,Etobicoke,"Kingsview Village, Martin Grove Gardens, Richview Gardens, St. Phillips"
-101,M9V,Etobicoke,"Albion Gardens, Beaumond Heights, Humbergate, Jamestown, Mount Olive, Silverstone, South Steeles, Thistletown"
-102,M9W,Etobicoke,Northwest
+﻿OBJECTID,CITYNAME,Shape_Length,Shape_Area,AREA
+1,Banks,14881.2697970245,3944488.73568206,20772996.36084
+2,Barlow,3500.49609348234,270321.945168422,1441809.58496
+3,Battle Ground,58040.1579504755,45443641.0112727,237963843.28467
+4,Beaverton,217766.44100928,103593809.258613,548190717.57666
+5,Camas,89229.454759115,83206038.7219188,438420311.23438
+6,Canby,44845.807768048,23959648.713037,127736279.42139
+7,Carlton,10998.7714511739,4637600.61038824,24699112.2876
+8,Clatskanie,26298.0563627498,6818479.24976582,35292987.18604
+9,Columbia City,13406.5202481863,6711807.80041393,34999437.88867
+10,Cornelius,25341.9846324725,12323726.7302888,65120218.68115
+11,Dayton,14309.7890859521,4336995.55182109,23158565.97681
+12,Dundee,16335.6200763519,7255959.10525911,38669307.52441
+13,Durham,9157.1833984521,2138999.99329602,11352224.40479
+14,Estacada,42930.7711509694,12025840.1405955,64038361.14209
+15,Fairview,29917.6255314532,18629207.2649814,98343141.71338
+16,Forest Grove,38807.994914844,31504300.4823662,166441941.94189
+17,Gaston,7479.69910677687,1803673.25039172,9559004.82129
+18,Gladstone,28582.4318490252,13066116.466595,69364988.31738
+19,Gresham,86015.7526819779,124689663.050963,659264197.69434
+20,Happy Valley,233200.821667076,60984236.2327474,323188610.88086
+21,Hillsboro,120927.132330136,135262001.210575,714536603.16455
+22,Johnson City,2752.17177092757,355954.94752947,1888476.67188
+23,King City,14311.6953334369,4116555.17441091,21842505.49658
+24,La Center,39040.7050807806,12798104.1286625,66821443.18896
+25,Lafayette,9933.45934073079,4562147.16683354,24338285.4248
+26,Lake Oswego,120688.451771742,60112584.9574333,318826903.41016
+27,Maywood Park,5264.14193100389,886856.399827509,4680757.06445
+28,Milwaukie,60787.2958223369,26760793.1836249,141776636.63525
+29,Molalla,26404.138108599,12867583.3675523,68876908.69238
+30,Newberg,57446.1379514052,31061911.0576217,165355864.87451
+31,North Plains,16570.9566207632,5766415.88446331,30386623.23682
+32,Oregon City,79259.1972811086,53818477.815352,286155281.35938
+33,Portland,276025.654604449,765886652.754652,4044453716.79932
+34,Rainier,47631.8937329976,27584020.1119939,142913711.96533
+35,Ridgefield,62132.9679343722,39740292.3851831,207842948.84326
+36,Rivergrove,9248.9914206321,961629.136790268,5105244.48047
+37,Sandy,57026.4847564572,18851960.5369302,100036111.22021
+38,Scappoose,38961.9655848858,14345710.9973639,75174817.8501
+39,Sherwood,33595.3641327622,24210677.2680877,128650569.78369
+40,St. Helens,68517.8472251114,31114618.960122,162469129.63818
+41,Tigard,85697.4748659815,66865618.8883447,354507821.15283
+42,Troutdale,38754.6966183585,31794445.3863379,167898252.89258
+43,Tualatin,65131.4818331031,43191017.754524,229364336.74756
+44,Vancouver,171935.168978876,275533136.976036,1449939445.4209
+45,Vernonia,23051.4394621604,9050504.22774263,47251445.63574
+46,Washougal,42714.4194261365,34545545.9445692,182137067.95703
+47,West Linn,44285.9568015223,42711131.1520986,226896590.65967
+48,Wilsonville,49094.92800456,40270867.1823649,214352272.99512
+49,Wood Village,11809.3059877175,5025977.49011598,26542172.38672
+50,Woodland,2610.43907978823,208515.145031078,1087165.05273
+51,Yacolt,9778.1166817108,2950463.75869389,15401828.86963
+52,Yamhill,10725.9871916924,2555361.32236462,13587063.59424
